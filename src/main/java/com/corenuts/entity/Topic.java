@@ -30,6 +30,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Topic
+//topic class is used to say about topic
 {
 	 	@Id
 	    @GeneratedValue(strategy = GenerationType.IDENTITY)
